@@ -2,6 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.2.
 
+# Prerequisites
+
+Ensure you have Node.js version `18.19.0` installed on your system. This version is required for the project to run properly. You can download it from `Node.js` Official Website.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
